@@ -1,9 +1,9 @@
 # Lern-Bericht
-✍️ ggf. Ihr Gruppenname und Ihre Gruppenmitglieder
+Luka Pantic
 
 ## Einleitung
 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
+Im Modul 133 haben wir JSF (Jakarta Server Faces) behandelt. JSF ist ein Web Application Framework, welches benutzt wird, um grafische Benutzeroberflächen (GUIS) für Webapplikationen zu erstellen.  
 
 ## Was habe ich gelernt?
 
