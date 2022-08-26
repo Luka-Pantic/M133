@@ -13,6 +13,15 @@ In diesem Modul habe ich gelernt, wie ich eine Eingabe an eine andere Seite mit 
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/69889967/186891491-5fb460e8-bffa-4b7c-b8fe-e360ac2a7ef5.gif)
 
+post ohne eigenen Controller:
+
+'''
+<h:commandButton value="POST ohne eigenen Controller" action="post.xhtml"/>
+
+'''
+
+post mit eigenem Controller:
+
 
 ## Verifikation
 
