@@ -3,20 +3,16 @@ Luka Pantic
 
 ## Einleitung
 
-Im Modul 133 haben wir JSF (Jakarta Server Faces) behandelt. JSF ist ein Web Application Framework, welches benutzt wird, um grafische Benutzeroberflächen (GUIS) für Webanwendungen zu erstellen.  
+Im Modul 133 haben wir JSF (Jakarta Server Faces) behandelt. JSF ist ein Web Application Framework, welches benutzt wird, um grafische Benutzeroberflächen (GUIS) für Webanwendungen zu erstellen. Genauergesagt ging es um das Sessionhandling. Ein Beispiel wären zum Beispiel Eingaben in ein Formular. 
 
 ## Was habe ich gelernt?
 
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
+In diesem Modul habe ich gelernt, wie ich eine Eingabe an eine andere Seite mit oder ohne eigenen Controller weiterleiten kann.
 
 ## Beschreibung
 
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/69889967/186891491-5fb460e8-bffa-4b7c-b8fe-e360ac2a7ef5.gif)
 
-* Eine textliche Beschreibung
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
 
 ## Verifikation
 
