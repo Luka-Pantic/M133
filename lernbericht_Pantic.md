@@ -3,7 +3,7 @@ Luka Pantic
 
 ## Einleitung
 
-Im Modul 133 haben wir JSF (Jakarta Server Faces) behandelt. JSF ist ein Web Application Framework, welches benutzt wird, um grafische Benutzeroberflächen (GUIS) für Webapplikationen zu erstellen.  
+Im Modul 133 haben wir JSF (Jakarta Server Faces) behandelt. JSF ist ein Web Application Framework, welches benutzt wird, um grafische Benutzeroberflächen (GUIS) für Webanwendungen zu erstellen.  
 
 ## Was habe ich gelernt?
 
