@@ -20,8 +20,34 @@ post ohne eigenen Controller:
 <h:commandButton value="POST ohne eigenen Controller" action="post.xhtml"/>
 
 ```
+
+
+post mit eigenem Controller:
+
 ```
-public class HelloController {
+<h:commandButton value="POST mit eigenem Controller" action="#{helloController.weiterleitung}"/>
+
+```
+    public class HelloManagedBean {
+
+    /**
+     * Creates a new instance of HelloManagedBean
+     */
+    public HelloManagedBean() {
+    }
+    
+    private String eingabe;
+
+    public String getEingabe() {
+        return eingabe;
+    }
+
+    public void setEingabe(String eingabe) {
+        this.eingabe = eingabe;
+    }
+    
+    ```
+    public class HelloController {
 
     /**
      * Creates a new instance of HelloController
@@ -32,11 +58,8 @@ public class HelloController {
     public String weiterleitung(){
         return "post.xhtml";
     }
-}
-```
-
-post mit eigenem Controller:
-
+    }
+    ```
 
 ## Verifikation
 
