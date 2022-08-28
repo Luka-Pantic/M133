@@ -60,6 +60,9 @@ post mit eigenem Controller:
     }
     }
     ```
+    
+    ![Screenshot 2022-08-28 212521](https://user-images.githubusercontent.com/69889967/187091108-d391741b-7872-41a0-bc45-e796c8777435.png)
+
 
 ## Verifikation
 
