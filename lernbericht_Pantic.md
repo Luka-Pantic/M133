@@ -81,6 +81,6 @@ post mit eigenem Controller:
 Bei diesem Arbeitsauftrag wurde zwar das Programm schon vorgegeben, doch man hat trotzdem einen guten Einblick in das Prinzip von
 JSF bekommen können.
 
-Ich hatte manchmal ein Paar Probleme beim Kompilieren des Programms, doch das Problem war meistens, dass das Falsche "JDK" ausgewählt war.
+Ich hatte manchmal ein Paar Probleme beim Kompilieren des Programms, doch das Problem war meistens, dass das Falsche "JDK" ausgewählt war oder es nochmal neu "gebuildet" werden musste.
 
 Im nächsten Modul sollte ich mich etwas mehr am Unterricht beteiligen und falls es wieder zum Distanzunterricht kommt mich etwas weniger ablenken lassen.
