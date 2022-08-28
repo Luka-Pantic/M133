@@ -20,6 +20,20 @@ post ohne eigenen Controller:
 <h:commandButton value="POST ohne eigenen Controller" action="post.xhtml"/>
 
 ```
+```
+public class HelloController {
+
+    /**
+     * Creates a new instance of HelloController
+     */
+    public HelloController() {
+    }
+    
+    public String weiterleitung(){
+        return "post.xhtml";
+    }
+}
+```
 
 post mit eigenem Controller:
 
