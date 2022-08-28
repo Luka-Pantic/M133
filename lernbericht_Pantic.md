@@ -27,7 +27,7 @@ post mit eigenem Controller:
 ```
 <h:commandButton value="POST mit eigenem Controller" action="#{helloController.weiterleitung}"/>
 
-```
+
     public class HelloManagedBean {
 
     /**
@@ -46,7 +46,7 @@ post mit eigenem Controller:
         this.eingabe = eingabe;
     }
     
-    ```
+    
     public class HelloController {
 
     /**
@@ -59,9 +59,13 @@ post mit eigenem Controller:
         return "post.xhtml";
     }
     }
-    ```
     
-    ![Screenshot 2022-08-28 212521](https://user-images.githubusercontent.com/69889967/187091108-d391741b-7872-41a0-bc45-e796c8777435.png)
+```
+
+
+![Screenshot 2022-08-28 212521](https://user-images.githubusercontent.com/69889967/187091192-a09f1c91-f25b-4a15-beb7-130d5ad309ed.png)
+
+  
 
 
 ## Verifikation
