@@ -70,12 +70,17 @@ post mit eigenem Controller:
 
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+1. In der Methode ohne den Controller wird einfach direkt auf die "post.xhtml" Seite verwiesen.
+2. Bei der anderen Methode wird erst auf den HelloController verwiesen, mit der Methode "weiterleitung"
+   an die "HelloManagedBean" weitergeleitet.
+   
+   
 
 # Reflektion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+Bei diesem Arbeitsauftrag wurde zwar das Programm schon vorgegeben, doch man hat trotzdem einen guten Einblick in das Prinzip von
+JSF bekommen können.
 
-👎 und etwas, was nicht gut lief.
+Ich hatte manchmal ein Paar Probleme beim Kompilieren des Programms, doch das Problem war meistens, dass das Falsche "JDK" ausgewählt war.
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+Im nächsten Modul sollte ich mich etwas mehr am Unterricht beteiligen und falls es wieder zum Distanzunterricht kommt mich etwas weniger ablenken lassen.
